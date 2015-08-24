@@ -1,0 +1,19 @@
+{
+  "name": "deny-from-aws",
+  "version": "0.1.0",
+  "description": "Blocks all of AWS using Apache's 'deny from' syntax",
+  "homepage": "https://github.com/ShakataGaNai/deny-from-aws",
+  "license": "MIT",
+  "author": {
+    "name": "Jon Davis",
+    "url": "https://snowulf.com"
+  },
+  "dependencies": {
+    "request": "*",
+    "fs": "*",
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ShakataGaNai/deny-from-aws.git"
+  }
+}
